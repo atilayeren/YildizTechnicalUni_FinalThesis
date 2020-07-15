@@ -3,7 +3,8 @@
 WIRELESS CHARGE STATION AND AUTONOMOUS MOBILE ROBOT DESIGN
 
 This project is a final thesis for Yildiz Technical University - Electronics and Commmunications Engineering department.
-made by Simge Bulut, Atilay Eren Serifoglu, Damla Colakoglu
+
+Made by Simge Bulut, Atilay Eren Serifoglu, Damla Colakoglu
 
 ABSTRACT
 
